@@ -1,0 +1,6 @@
+[submodule "third-party/rocksdb"]
+	path = third-party/rocksdb
+	url = git@github.com:WittenYeh/rocksdb.git
+[submodule "third-party/leanstore"]
+	path = third-party/leanstore
+	url = git@github.com:WittenYeh/leanstore.git
